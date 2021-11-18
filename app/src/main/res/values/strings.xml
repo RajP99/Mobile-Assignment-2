@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Location Finder</string>
+    <string name="address">Address</string>
+</resources>
